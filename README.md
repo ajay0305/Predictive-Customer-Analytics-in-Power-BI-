@@ -37,8 +37,6 @@ Visualize Your Success:
 🔷 Prompted action: I provided specific recommendations and next steps, empowering the client to leverage the data for immediate improvement.
 
 This communication bridge ensured the project's success wasn't confined to the dashboard, but translated into tangible results for the client's business.
-![Email](https://github.com/ajay0305/Predictive-Customer-Analytics-in-Power-BI-/assets/151017676/bfa991d6-c901-4a80-b43b-f8a8c8c54aeb)
-
 
 ## **Get Started:**
 1. Clone the repository.
